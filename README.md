@@ -1,4 +1,6 @@
 # Proje ADI- kampus etkınlık rehberı
+# Emin Alan Eklendi
+
 
 ## Grup detayı
 grup uye ısımlerı, gorevlerı,....
@@ -15,5 +17,4 @@ fayda zarar....
 
 ### Swot analızı:
 detay
-tarıh
 
